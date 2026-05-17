@@ -1,0 +1,98 @@
+{
+  "common": {
+    "search": "Іздеу...",
+    "save": "Сақтау",
+    "cancel": "Бас тарту",
+    "delete": "Жою",
+    "edit": "Өзгерту",
+    "create": "Құру",
+    "loading": "Жүктелуде...",
+    "noData": "Деректер жоқ",
+    "actions": "Әрекеттер",
+    "status": "Күй",
+    "period": "Кезең",
+    "from": "Бастап",
+    "to": "Дейін",
+    "apply": "Қолдану",
+    "export": "Экспорт"
+  },
+  "nav": {
+    "dashboard": "Басқару тақтасы",
+    "stores": "Дүкендер",
+    "billing": "Биллинг",
+    "agents": "Агенттер",
+    "distributor": "Дистрибьютор",
+    "settings": "Баптаулар",
+    "logout": "Шығу"
+  },
+  "dashboard": {
+    "title": "Платформа басқару тақтасы",
+    "gmv": "GMV",
+    "revenue": "Платформа табысы",
+    "stores": "Қосылған дүкендер",
+    "churn": "Churn rate",
+    "activeAgents": "Белсенді агенттер",
+    "gmvDynamics": "GMV динамикасы",
+    "last30days": "Соңғы 30 күн"
+  },
+  "billing": {
+    "title": "Комиссиялар және ерекшеліктер",
+    "commissions": "Комиссиялар",
+    "exclusions": "Ерекшеліктер",
+    "globalRate": "Жалпы мөлшерлеме",
+    "tenantRate": "Дүкен мөлшерлемесі",
+    "tenant": "Дүкен",
+    "rate": "Мөлшерлеме %",
+    "effectiveFrom": "Күшіне енетін күн",
+    "addExclusion": "Ерекшелік қосу",
+    "brand": "Бренд",
+    "skus": "SKU",
+    "periodStart": "Басталуы",
+    "periodEnd": "Аяқталуы",
+    "active": "Белсенді",
+    "inactive": "Белсенді емес"
+  },
+  "agents": {
+    "title": "Агенттерді бақылау",
+    "name": "Аты",
+    "visits": "Барулар",
+    "orders": "Тапсырыстар",
+    "onboardings": "Қосылулар",
+    "routeCompletion": "Маршрут орындалуы",
+    "gpsTrack": "GPS трек",
+    "kpi": "KPI",
+    "today": "Бүгін",
+    "thisWeek": "Осы апта",
+    "thisMonth": "Осы ай"
+  },
+  "stores": {
+    "title": "Дүкендерді басқару",
+    "name": "Атауы",
+    "owner": "Иесі",
+    "plan": "Тариф",
+    "gmv": "GMV",
+    "status": "Күй",
+    "paymentHistory": "Төлем тарихы",
+    "active": "Белсенді",
+    "suspended": "Тоқтатылған",
+    "trial": "Сынақ"
+  },
+  "distributor": {
+    "title": "Дистрибьютор тақтасы",
+    "salesBySku": "SKU бойынша сатылымдар",
+    "salesByStore": "Дүкендер бойынша сатылымдар",
+    "dynamics": "Сатылым динамикасы",
+    "exclusions": "Менің ерекшеліктерім",
+    "sku": "SKU",
+    "store": "Дүкен",
+    "quantity": "Саны",
+    "amount": "Сома"
+  },
+  "login": {
+    "title": "Жүйеге кіру",
+    "phone": "Телефон нөмірі",
+    "sendCode": "Код жіберу",
+    "code": "Растау коды",
+    "verify": "Кіру"
+  }
+}

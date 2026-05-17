@@ -1,0 +1,98 @@
+{
+  "common": {
+    "search": "Поиск...",
+    "save": "Сохранить",
+    "cancel": "Отмена",
+    "delete": "Удалить",
+    "edit": "Редактировать",
+    "create": "Создать",
+    "loading": "Загрузка...",
+    "noData": "Нет данных",
+    "actions": "Действия",
+    "status": "Статус",
+    "period": "Период",
+    "from": "С",
+    "to": "По",
+    "apply": "Применить",
+    "export": "Экспорт"
+  },
+  "nav": {
+    "dashboard": "Дашборд",
+    "stores": "Магазины",
+    "billing": "Биллинг",
+    "agents": "Агенты",
+    "distributor": "Дистрибутор",
+    "settings": "Настройки",
+    "logout": "Выйти"
+  },
+  "dashboard": {
+    "title": "Дашборд платформы",
+    "gmv": "GMV",
+    "revenue": "Выручка платформы",
+    "stores": "Подключённые магазины",
+    "churn": "Churn rate",
+    "activeAgents": "Активные агенты",
+    "gmvDynamics": "Динамика GMV",
+    "last30days": "Последние 30 дней"
+  },
+  "billing": {
+    "title": "Комиссии и исключения",
+    "commissions": "Комиссии",
+    "exclusions": "Исключения",
+    "globalRate": "Глобальная ставка",
+    "tenantRate": "Ставка для магазина",
+    "tenant": "Магазин",
+    "rate": "Ставка %",
+    "effectiveFrom": "Действует с",
+    "addExclusion": "Добавить исключение",
+    "brand": "Бренд",
+    "skus": "SKU",
+    "periodStart": "Начало",
+    "periodEnd": "Конец",
+    "active": "Активно",
+    "inactive": "Неактивно"
+  },
+  "agents": {
+    "title": "Мониторинг агентов",
+    "name": "Имя",
+    "visits": "Визиты",
+    "orders": "Заказы",
+    "onboardings": "Подключения",
+    "routeCompletion": "Выполнение маршрута",
+    "gpsTrack": "GPS трек",
+    "kpi": "KPI",
+    "today": "Сегодня",
+    "thisWeek": "Эта неделя",
+    "thisMonth": "Этот месяц"
+  },
+  "stores": {
+    "title": "Управление магазинами",
+    "name": "Название",
+    "owner": "Владелец",
+    "plan": "Тариф",
+    "gmv": "GMV",
+    "status": "Статус",
+    "paymentHistory": "История платежей",
+    "active": "Активен",
+    "suspended": "Приостановлен",
+    "trial": "Пробный"
+  },
+  "distributor": {
+    "title": "Дашборд дистрибутора",
+    "salesBySku": "Продажи по SKU",
+    "salesByStore": "Продажи по магазинам",
+    "dynamics": "Динамика продаж",
+    "exclusions": "Мои исключения",
+    "sku": "SKU",
+    "store": "Магазин",
+    "quantity": "Количество",
+    "amount": "Сумма"
+  },
+  "login": {
+    "title": "Вход в систему",
+    "phone": "Номер телефона",
+    "sendCode": "Отправить код",
+    "code": "Код подтверждения",
+    "verify": "Войти"
+  }
+}
