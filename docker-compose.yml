@@ -1,0 +1,15 @@
+services:
+  web-admin:
+    build: .
+    container_name: web-admin
+    restart: unless-stopped
+    ports:
+      - "3001:3000"
+    environment:
+      - NODE_ENV=production
+    networks:
+      - backend
+
+networks:
+  backend:
+    external: true
